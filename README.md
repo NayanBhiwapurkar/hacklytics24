@@ -1,7 +1,7 @@
 # hacklytics 2024 Team Name - InnSight 
 Team Members: 
 - Hoang Ho (hho48@gatech.edu)
-- Leah Kim (leahkim@gmail.com
+- Leah Kim (lk2935@barnard.edu)
 - Nayan Bhiwapurkar (nayanbhiwapurkar@asu.edu)
 - Aarya Brahmane (aarya.brahmane@tamu.edu)
 
@@ -36,6 +36,6 @@ streamlit run pages/Main.py
 ```
 
 ### Demo
-[Youtube link]()
+[Youtube link](https://youtu.be/_cq9T05F2VI)
 
 
